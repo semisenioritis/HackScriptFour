@@ -1,0 +1,11 @@
+Invoice
+
+Invoice #:
+
+Description Quantity Unit Price Total
+
+Payment Terms: Total Amount Due:
+
+powered by
+General Blue
+
